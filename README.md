@@ -1,4 +1,4 @@
-# Baania-webscraping
+# Basic tool for scraping property listings from Thailand housing site, written in Python using Beautiful Soup.
 
 Baania is one of the biggest property listing website in Thailand. This project is focused on condomenium listings in Bangkok, both new and resale.
 
