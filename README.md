@@ -8,4 +8,4 @@ http://bannia.com/
 Please note:
 1. Scraping this website is only allowed for personal use.
 2. Given the "sleep" intervals embedded in the code, it gently scrapes the pages so it will take a while to complete the operation.
-3. From observation, each results page contains 18 listings. It extracts variables from each property listing, and saves to a excel file for further analysis.
+3. From observation, each results page contains 18 listings. This code extracts variables from each property listing, and saves to a excel file for further analysis.
