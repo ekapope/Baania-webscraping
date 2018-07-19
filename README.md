@@ -1,2 +1,5 @@
 # Baania-webscraping
-Baania webscraping using beautiful soup
+
+Baania web scraping using bs4.
+
+
