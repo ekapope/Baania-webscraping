@@ -5,6 +5,10 @@ Baania is one of the biggest property listing website in Thailand. This project 
 Web scraping using bs4.
 http://bannia.com/
 
+001_CondoScraping_gh.ipynb : To obtain all links for every condomenium listed in the website.
+002_CondoScraping_gh.ipynb : To scrape the infos and store in excel file.
+Condo_info_Combined - Cleaned.xlsx : Clean Data for first glance in MS Power BI
+
 Please note:
   1. Scraping this website is only allowed for personal use.
   2. Given the "sleep" intervals embedded in the code, it gently scrapes the pages so it will take a while to complete the operation.
