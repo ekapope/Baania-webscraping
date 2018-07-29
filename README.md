@@ -3,7 +3,7 @@
 Baania is one of the biggest property listing website in Thailand. This project is focused on condomenium listings in Bangkok, both new and resale.
 
 The data then saved in excel format and visualized using Microsoft Power BI.
-https://app.powerbi.com/viewr=eyJrIjoiZWI0MTc3MWMtMDU2MC00MGYyLWI1N2UtZmY1NDkwMGViMjI5IiwidCI6IjA4OTgzZGFmLTVhY2EtNGY0NC1iYzY1LWMyM2NlMzJkNDZlYyIsImMiOjh9
+https://app.powerbi.com/view?r=eyJrIjoiZWI0MTc3MWMtMDU2MC00MGYyLWI1N2UtZmY1NDkwMGViMjI5IiwidCI6IjA4OTgzZGFmLTVhY2EtNGY0NC1iYzY1LWMyM2NlMzJkNDZlYyIsImMiOjh9
 
 Web scraping using bs4.
 http://bannia.com/
