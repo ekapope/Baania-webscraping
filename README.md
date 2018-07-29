@@ -2,8 +2,9 @@
 
 Baania is one of the biggest property listing website in Thailand. This project is focused on condomenium listings in Bangkok, both new and resale.
 
-Web scraping using bs4.
 http://bannia.com/
+
+Web scraping using bs4.
 
 001_CondoScraping_gh.ipynb : To obtain all links for every condomenium listed in the website.
 
