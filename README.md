@@ -25,6 +25,6 @@ Please note:
 # Data Visualization using Microsoft Power BI.
 The data is then imported and visualized via MS Power BI, follow this [link](https://app.powerbi.com/view?r=eyJrIjoiZWI0MTc3MWMtMDU2MC00MGYyLWI1N2UtZmY1NDkwMGViMjI5IiwidCI6IjA4OTgzZGFmLTVhY2EtNGY0NC1iYzY1LWMyM2NlMzJkNDZlYyIsImMiOjh9) for the dashboard.
 
-
+Again, big thanks for http://bannia.com/ for the data.
 
 [Thanks to this author for Power BI project inspiration.](https://www.accelerating.tech/blog/visualizing-real-estate-markets-with-power-bi/)
