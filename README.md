@@ -1,5 +1,7 @@
 # Basic tool for scraping property listings from Thailand housing site, written in Python using Beautiful Soup.
 
+This is the first episode of web scraping project which focused on condomenium listings in Bangkok, Thailand. You can find my second project [here](https://github.com/ekapope/web-scraping-using-selenium-and-bs4).
+
 Baania is one of the biggest property listing website in Thailand. This project is focused on condomenium listings in Bangkok, both new and resale.
 
 http://bannia.com/
