@@ -8,11 +8,11 @@ http://bannia.com/
 
 Web scraping using bs4.
 
-001_CondoScraping_gh.ipynb : To obtain all links for every condomenium listed in the website.
+[001_CondoScraping_gh.ipynb](https://github.com/ekapope/Baania-webscraping/blob/master/001_CondoScraping_gh.ipynb) : To obtain all links for every condomenium listed in the website.
 
-002_CondoScraping_gh.ipynb : To scrape the infos and store in excel file.
+[002_CondoScraping_gh.ipynb](https://github.com/ekapope/Baania-webscraping/blob/master/002_CondoScraping_gh.ipynb) : To scrape the infos and store in excel file.
 
-Condo_info_Combined - Cleaned.xlsx : Clean Data for first glance in MS Power BI
+[Condo_info_Combined - Cleaned.xlsx](https://github.com/ekapope/Baania-webscraping/blob/master/Condo_info_Combined%20-%20Cleaned.xlsx) : Clean Data for first glance in MS Power BI
 
 
 Please note:
